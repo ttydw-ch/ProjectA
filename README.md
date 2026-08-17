@@ -1,1 +1,2 @@
 # ProjectA
+Hello Git practice
